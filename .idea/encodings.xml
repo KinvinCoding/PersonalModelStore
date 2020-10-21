@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebRoot/resource/css/login.css" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/WebRoot/resource/js/jquery.1.4.2-min.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/WebRoot/resource/ueditor/jsp/config.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebRoot/resource/ueditor/upload/248e977029ba11e7c4a69a89eb829180天气.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/WebRoot/resource/ueditor/upload/80e301d0249411e7c31465fa95c1e6e7天气.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/WebRoot/resource/ueditor/upload/a3852c5029b611e7680059c5c1b5968f天气.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src" charset="UTF-8" />
+  </component>
+</project>
