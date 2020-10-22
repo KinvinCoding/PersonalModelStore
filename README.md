@@ -1,7 +1,10 @@
 # PersonalModelStore
-</br>  
+</br> 
 
-## 前台运行效果：  
+## 1．项目描述  
+个人模玩商城主要设计是提供一个专职售卖模玩的电商网站，方便各玩家快速找到心仪的模型。  
+## 2.效果运行截图  
+### 前台运行效果：  
 ![img_01](https://github.com/KinvinCoding/PersonalModelStore/blob/master/picture/pic1.png)  
 ![img_02](https://github.com/KinvinCoding/PersonalModelStore/blob/master/picture/pic2.png)  
 ![img_03](https://github.com/KinvinCoding/PersonalModelStore/blob/master/picture/pic3.png)  
@@ -16,7 +19,7 @@
 ![img_12](https://github.com/KinvinCoding/PersonalModelStore/blob/master/picture/pic12.png)  
 ![img_21](https://github.com/KinvinCoding/PersonalModelStore/blob/master/picture/pic21.png)  
 ![img_22](https://github.com/KinvinCoding/PersonalModelStore/blob/master/picture/pic22.png)  
-## 后台运行效果：  
+### 后台运行效果：  
 ![img_19](https://github.com/KinvinCoding/PersonalModelStore/blob/master/picture/pic19.png)  
 ![img_13](https://github.com/KinvinCoding/PersonalModelStore/blob/master/picture/pic13.png)  
 ![img_14](https://github.com/KinvinCoding/PersonalModelStore/blob/master/picture/pic14.png)  
